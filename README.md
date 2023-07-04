@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on Kaggle and AICrowd challenges
+- 🔭 I’m currently working on Kaggle https://www.kaggle.com/petergelderbloem and AICrowd challenges
 - 🌱 I’m currently learning Transformers for Audio https://huggingface.co/learn/audio-course/
 - 👯 I’m looking to collaborate on interesting AI projects
 - 📫 How to reach me: Discord: https://discordapp.com/users/ptah23
