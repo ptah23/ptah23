@@ -5,6 +5,7 @@
 - 📫 How to reach me: [Discord](https://discordapp.com/users/ptah23)
 - 💬 Ask me about my [progress](https://wandb.ai/ptah23) on current projects
 - 🎵 I write music too. Here is a [playlist](https://www.youtube.com/playlist?list=PLpNlmOLjmcN3DtNxJwAuVXo4sOSlrPmOa) of music that I have made available for use on social media like tiktok and instagram
+- 🎬 [Inspirational Youtube channel](https://www.youtube.com/channel/UCMdcYdeZ4q2e7NVXh-zgduw) where I practice creating content with AI tools to get a user's perspective and prctice Promt Engineering
 <!--
 **ptah23/ptah23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
