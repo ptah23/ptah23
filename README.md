@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🔭 I’m currently working on [Kaggle](https://www.kaggle.com/petergelderbloem) and [AICrowd](https://www.aicrowd.com/participants/peter_gelderbloem) challenges
 - 🌱 I completed [Transformers for Audio Course](https://huggingface.co/learn/audio-course/) successfully. These are my [Notes](https://github.com/ptah23/audio-transformers-course-notebooks)
-  ![HF audio certificate](https://github.com/ptah23/ptah23/assets/2241188/272ae2d8-6303-44f1-b786-d0dfed54cbf4)
+  <img src="[https://your-image-url.type](https://github.com/ptah23/ptah23/assets/2241188/272ae2d8-6303-44f1-b786-d0dfed54cbf4)" height="100">
 
 - 🤗 [Models I'm building](https://huggingface.co/ptah23), mostly for audio
 - 👯 I’m looking to collaborate on interesting AI projects
