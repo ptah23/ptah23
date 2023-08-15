@@ -1,4 +1,5 @@
 ### Hi there 👋
+- 🔭 I've been accepted by [100.builders](https://100.builders/) and will be building an opensource project to accelerate learning and education
 - 🔭 I’m currently working on [Kaggle](https://www.kaggle.com/petergelderbloem) and [AICrowd](https://www.aicrowd.com/participants/peter_gelderbloem) challenges
 - 🌱 I am working on [Transformers for NLP Course](https://huggingface.co/learn/nlp-course/). These are my [Notes](https://github.com/ptah23/nlp-transformers-course-notebooks)
 - 🌱 I completed [Transformers for Audio Course](https://huggingface.co/learn/audio-course/) successfully. These are my [Notes](https://github.com/ptah23/audio-transformers-course-notebooks)
